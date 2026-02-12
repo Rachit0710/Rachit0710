@@ -24,4 +24,4 @@ I am an aspiring **Full-Stack Developer** passionate about building clean, funct
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachit0710&show_icons=true&theme=radical)
