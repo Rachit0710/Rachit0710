@@ -2,7 +2,7 @@
 
 I am an aspiring **Full-Stack Developer** passionate about building clean, functional, and user-friendly applications. I enjoy the logic of the backend as much as the creativity of the frontend.
 
-🌐 **Portfolio:** (https://rachitportfolio.free.nf/?i=1)
+🌐 **Portfolio:** [https://rachitportfolio.free.nf/?i=1]
 
 ---
 
@@ -30,6 +30,6 @@ I am an aspiring **Full-Stack Developer** passionate about building clean, funct
 
 
 ## 🔗 Connect With Me
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://rachitportfolio.free.nf/?i=1)
+- 🌐 Portfolio: [https://rachitportfolio.free.nf/?i=1]
 - 💼 LinkedIn: https://linkedin.com/in/rachit-mundapi
 - 📫 Email: rachitmundapi99@gmail.com
