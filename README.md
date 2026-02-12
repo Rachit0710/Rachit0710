@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Rachit0710! 👋
 
-<!--
-**Rachit0710/Rachit0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **Full-Stack Developer** passionate about building clean, functional, and user-friendly applications. I enjoy the logic of the backend as much as the creativity of the frontend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Tech Stack
+
+**Frontend & Styling**
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+**Backend & Environment**
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+---
+
+### 🚀 What I'm Up To
+- 🔭 **Currently working on:** Refining my React component architecture.
+- 🌱 **Learning:** Bridging the gap between Node.js and .NET microservices.
+- 💬 **Ask me about:** Why I still think jQuery is a great tool for understanding the DOM!
+- ⚡ **Goal:** To push code every day and turn this contribution graph green.
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
